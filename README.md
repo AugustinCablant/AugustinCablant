@@ -1,6 +1,6 @@
-### Hi there 👋
+Master student at Ensae Paris (National School of Statistics and Economic Administration) and at Sorbonne university in statistics and machine learning.
 
-I am a second year student at ENSAE Paris (École Nationale de la Statistique et de l'Administration Économique), and I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
+I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
 🔭 I’m currently working on : 
 - estimating the survival function of life annuity sellers as part of a first-year internship at CREST (python and R)
@@ -15,7 +15,9 @@ I am a second year student at ENSAE Paris (École Nationale de la Statistique et
 ⚡ My future projects : 
 - a C++ project during my first semester
 - Statapp during the year 
-  
+
+Contact: augustin.cablant@ensae.fr 
+
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
