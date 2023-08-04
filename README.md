@@ -2,11 +2,13 @@ Master student at Ensae Paris (National School of Statistics and Economic Admini
 
 I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
-🔭 I’m currently working on : 
+I’m currently working on : 
 - estimating the survival function of life annuity sellers as part of a first-year internship at CREST (python and R)
 - improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...)
+- predicting sales for the thousands of product families sold at Favorita stores located in Ecuador
+- modeling the price of electricity using meteorological, energy (raw materials) and commercial data for two European countries (France and Germany)
 
-🌱 I’m currently learning : 
+I’m currently learning : 
 - python
 - R
 - STATA
