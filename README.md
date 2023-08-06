@@ -6,8 +6,7 @@ I’m currently working on :
 - estimating the survival function of life annuity sellers as part of a first-year internship at CREST (python and R)
 - improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...)
 - predicting sales for the thousands of product families sold at Favorita stores located in Ecuador
-- modeling the price of electricity using meteorological, energy (raw materials) and commercial data for two European countries (France and Germany)
-- a challenge data organized by ENS and QRT [Regarder le challenge](https://challengedata.ens.fr/participants/challenges/97/)
+- a challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
 
 I’m currently learning : 
 - python
