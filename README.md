@@ -7,6 +7,7 @@ I’m currently working on :
 - improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...)
 - predicting sales for the thousands of product families sold at Favorita stores located in Ecuador
 - a challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
+- a challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
 
 I’m currently learning : 
 - python
