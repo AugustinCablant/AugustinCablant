@@ -4,7 +4,7 @@ I am strongly interested in statistics, Machine Learning, Data Science and Sport
 
 I’m currently working on : 
 - estimating the survival function of life annuity sellers ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Fonction%20de%20survie/estimation_fonction_survie.R)) and maximum likelihood ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Vraissemblance/Vraissemblance.ipynb))  as part of a first-year internship at CREST (python and R)
-- improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes]([https://github.com/AugustinCablant/Learning-ML](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf))
+- improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes]((https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf )
 - a challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
 - a challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
 
