@@ -18,7 +18,9 @@ I’m currently learning :
 - a C++ project during my first semester
 - Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE)
 
-Contact: augustin.cablant@ensae.fr 
+Contact: 
+- augustin.cablant@ensae.fr
+- [Linkedin](https://www.linkedin.com/in/augustin-cablant-70362518b/) 
 
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
