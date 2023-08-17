@@ -1,4 +1,4 @@
-Master student at Ensae Paris (National School of Statistics and Economic Administration) and at Sorbonne university in statistics and machine learning.
+Master student at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning.
 
 I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
