@@ -1,4 +1,7 @@
 # Welcome to my Github profile ! 
+<div align="right">
+    <img src="https://images.app.goo.gl/vx4PX7f5MG8aZrgW9" alt="ENSAE">
+</div>
 
 ## Contacts: 
 <div id="badges">
