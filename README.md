@@ -1,8 +1,10 @@
 # Welcome to my Github profile ! 
 
-## :chart_with_upwards_trend: GitHub Stats 
+## : chart_with_upwards_trend: GitHub Stats 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Augustin Cablant&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Augustin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustin Cablant&layout=compact&theme=algolia&hide_border=true&hide=javascript,html" /></a> |
+|<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Augustin Cablant&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Augustin's github stats" /></a> | 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustin Cablant&layout=compact&theme=algolia&hide_border=true&hide=javascript,html" /></a> |
 | ------------- | ------------- |
 
 ## Contacts: 
