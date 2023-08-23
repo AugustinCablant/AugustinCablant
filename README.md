@@ -25,9 +25,8 @@ Contact:
   <a href="https://www.linkedin.com/in/augustin-cablant-70362518b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="augustin.cablant@ensae.fr">
-    <img src="https://img.shields.io/badge/Mail-blue
-" alt="Mail Badge"/>
+  <a href="augustin.cablantca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
 
