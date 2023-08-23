@@ -13,7 +13,9 @@
 ## Some words about me
 <div>
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
-    **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I         am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my          professional career in these fields.
+    **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. 
+  <br>
+    I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my          professional career in these fields.
 </div>
 
 
