@@ -1,5 +1,7 @@
 # Welcome to my Github profile ! 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={AugustinCablant}&theme=blue-green
+
 ## Contacts: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/augustin-cablant-70362518b/">
