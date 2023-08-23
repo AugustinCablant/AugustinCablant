@@ -1,6 +1,8 @@
 # Welcome to my Github profile ! 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={AugustinCablant}&theme=blue-green
+<div id="Stats">
+  <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username={AugustinCablant}&theme=blue-green">
+  </a>
+</div>
 
 ## Contacts: 
 <div id="badges">
