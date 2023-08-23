@@ -10,6 +10,13 @@
 - A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
 
 ## I’m currently learning : 
+<div id="badges">
+  <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="augustin.cablantca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
+</div>
 - python
 - R
 - STATA
