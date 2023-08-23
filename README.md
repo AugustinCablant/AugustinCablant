@@ -20,8 +20,15 @@
 - Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE)
 
 Contact: 
-- augustin.cablant@ensae.fr
-- [Linkedin](https://www.linkedin.com/in/augustin-cablant-70362518b/) 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/augustin-cablant-70362518b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="augustin.cablant@ensae.fr">
+    <img src="https://img.shields.io/badge/:badgeContent" alt="Mail Badge"/>
+  </a>
+</div>
 
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
