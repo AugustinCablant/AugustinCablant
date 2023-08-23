@@ -13,7 +13,7 @@
 ## Some words about me
 **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
-## : chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
