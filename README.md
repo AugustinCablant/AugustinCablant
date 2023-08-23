@@ -1,6 +1,6 @@
 # Welcome to my Github profile ! 
 <div style="position: relative;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" style="max-width: 200px; float: right; margin-left: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200" style="float: right; margin-left: 20px;">
 </div>
 
 ## Contacts: 
