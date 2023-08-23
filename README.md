@@ -1,11 +1,12 @@
 # Welcome to my Github profile ! 
+![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&theme=radical)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Augustin Cablant&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Augustin Cablant&show_icons=true&include_all_commits=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&include_all_commits=true" 
   alt="Augustin's github stats"/>
 </picture>
 
