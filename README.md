@@ -1,28 +1,4 @@
 # Welcome to my Github profile ! 
-![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&theme=radical)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&include_all_commits=true" 
-  alt="Augustin's github stats"/>
-</picture>
-
-## : chart_with_upwards_trend: GitHub Stats 
-
-|
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Augustin       
-Cablant&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Augustin's github stats" />
-</a> 
-| 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustin Cablant&layout=compact&theme=algolia&hide_border=true&hide=javascript,html" />
-</a> 
-|
-| ------------- | ------------- |
 
 ## Contacts: 
 <div id="badges">
@@ -36,6 +12,16 @@ Cablant&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true"
 
 ## Some words about me
 **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
+
+## : chart_with_upwards_trend: GitHub Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&include_all_commits=true" 
+  alt="Augustin's github stats"/>
+</picture>
 
 ## Skills 
 <div id="badges">
