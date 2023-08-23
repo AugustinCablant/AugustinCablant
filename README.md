@@ -1,5 +1,15 @@
 # Welcome to my Github profile ! 
 
+## Contacts: 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/augustin-cablant-70362518b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="augustin.cablantca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
+</div>
+
 ## Some words about me
 **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
@@ -7,15 +17,15 @@
 <div id="badges">
   <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="C++">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-    </a>
   <a href="R">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
     </a>
   <a href="Microsoft office">
-    <img src="	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft office Badge"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft office Badge"/>
   </a>
+  <a href="C++">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    </a>
 </div>
 
 ## I’m currently working on : 
@@ -35,16 +45,7 @@
 - a C++ project during my first semester
 - Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE)
 
-Contacts: 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/augustin-cablant-70362518b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="augustin.cablantca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>
-</div>
 
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
