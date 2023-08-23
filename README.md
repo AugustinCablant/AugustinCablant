@@ -11,11 +11,14 @@
 </div>
 
 ## Some words about me
-<p align="right">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
-</p>
-
-**Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I         am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my          professional career in these fields.
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
+    </div>
+</div>
 
 ## :chart_with_upwards_trend: GitHub Stats 
 <picture>
