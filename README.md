@@ -3,6 +3,21 @@
 ## Some words about me
 **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
+## Skills 
+<div id="badges">
+  <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="C++">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    </a>
+  <a href="R">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
+    </a>
+  <a href="Microsoft office">
+    <img src="	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft office Badge"/>
+  </a>
+</div>
+
 ## I’m currently working on : 
 - Estimating the survival function of life annuity sellers ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Fonction%20de%20survie/estimation_fonction_survie.R)) and maximum likelihood ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Vraissemblance/Vraissemblance.ipynb))  as part of a first-year internship at CREST (python and R)
 - Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf)
@@ -10,13 +25,7 @@
 - A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
 
 ## I’m currently learning : 
-<div id="badges">
-  <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="augustin.cablantca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>
-</div>
+
 - python
 - R
 - STATA
