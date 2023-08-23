@@ -11,10 +11,9 @@
 </div>
 
 ## Some words about me
-
-<div style="position: relative; align = right">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200" style="float: right; margin-left: 20px;">
-</div>
+<p align="right">
+    <img src="lien_vers_votre_image" alt="Description de l'image" width="200">
+</p>
 
 **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
