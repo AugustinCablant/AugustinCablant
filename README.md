@@ -1,6 +1,7 @@
 # Welcome to my Github profile ! 
 <div id="Stats">
   <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username={AugustinCablant}&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={AugustinCablant}&theme=blue-green" alt="Stats"/>
   </a>
 </div>
 
