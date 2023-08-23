@@ -1,5 +1,7 @@
 # Welcome to my Github profile ! 
 
+[![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustin Cablant)](https://github.com/anuraghazra/github-readme-stats)
+
 ## : chart_with_upwards_trend: GitHub Stats 
 
 |
