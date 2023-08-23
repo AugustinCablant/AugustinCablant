@@ -1,7 +1,7 @@
 # Welcome to my Github profile ! 
 <div align="right">
-    <a href="https://images.app.goo.gl/vx4PX7f5MG8aZrgW9">
-    <img src="https://images.app.goo.gl/vx4PX7f5MG8aZrgW9" alt="ENSAE">
+    <a href="https://images.app.goo.gl/C6jeJcBvNtWQvPyCA">
+    <img src="https://images.app.goo.gl/C6jeJcBvNtWQvPyCA" alt="ENSAE">
 </div>
 
 ## Contacts: 
