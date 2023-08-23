@@ -1,10 +1,8 @@
 # Welcome to my Github profile ! 
 
 <div style="text-align: right;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" style="max-width: 200px; float: right; margin-left: 20px;">
 </div>
-
-![ENSAE]("https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png")
 
 ## Contacts: 
 <div id="badges">
