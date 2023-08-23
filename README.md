@@ -1,7 +1,4 @@
 # Welcome to my Github profile ! 
-<div style="position: relative;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200" style="float: right; margin-left: 20px;">
-</div>
 
 ## Contacts: 
 <div id="badges">
@@ -14,6 +11,11 @@
 </div>
 
 ## Some words about me
+
+<div style="position: relative; align = right">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200" style="float: right; margin-left: 20px;">
+</div>
+
 **Master student** at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my professional career in these fields.
 
 ## :chart_with_upwards_trend: GitHub Stats 
