@@ -63,8 +63,8 @@
 - C++
 
 ## ⚡ My future projects : 
-- a C++ project during my first semester
-- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE)
+- a python project during my first semester
+- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I will work with INRIA on calibration and will use TabPFN [Link](https://github.com/AugustinCablant/StatApp).
 
 
 
