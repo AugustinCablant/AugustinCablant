@@ -52,15 +52,21 @@
 ## I’m currently working on : 
 - Estimating the survival function of life annuity sellers ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Fonction%20de%20survie/estimation_fonction_survie.R)) and maximum likelihood ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Vraissemblance/Vraissemblance.ipynb))  as part of a first-year internship at CREST (python and R)
 - Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf)
-- A challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
-- A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
+- Working on a [package](https://github.com/AugustinCablant/Projet_python_2A) that finds the optimal routes for electric cars in France 
+
 
 ## I’m currently learning : 
-
 - python
 - R
 - STATA
 - C++
+
+## Projects
+- A project about Bubbles crashes and intermittency in agent based market models [Have a look](https://github.com/AugustinCablant/Bubbles-crashes-and-intermittency)
+- Optimising a delivery network in France [Have a look](https://github.com/AugustinCablant/Optimisation-d-un-r-seau-de-livraison)
+- Understanding the nuts and bolts of [statistics, probability](https://github.com/AugustinCablant/Statistics-and-Probability) and [Monte Carlo Methods](https://github.com/AugustinCablant/Monte-Carlo-methods)
+- A challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
+- A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
 
 ## ⚡ My future projects : 
 - a python project during my first semester
