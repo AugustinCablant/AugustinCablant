@@ -67,10 +67,10 @@
 - Understanding the nuts and bolts of [statistics, probability](https://github.com/AugustinCablant/Statistics-and-Probability) and [Monte Carlo Methods](https://github.com/AugustinCablant/Monte-Carlo-methods)
 - A challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
 - A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
+- Python project during my first semester about [electric cars](https://github.com/AugustinCablant/PyCar) called PyCar.
 
 ## ⚡ My future projects : 
-- a python project during my first semester
-- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I will work with INRIA on calibration and will use TabPFN [Link](https://github.com/AugustinCablant/StatApp).
+- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I will work with ENSAE and INRIA on Optimal Transport.
 
 
 
