@@ -17,7 +17,7 @@
   Master student at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. 
   <br>
   <br>
-  I am strongly interested in statistics, Machine Learning, Data Science and Sports science. I plan to continue my studies and then my          professional career in these fields.
+  I am strongly interested in statistics, Machine Learning, Mathematics and Data Science. I plan to continue my studies and then my          professional career in these fields.
   <br>
   <br>
   
@@ -50,10 +50,9 @@
 </div>
 
 ## I’m currently working on : 
-- Estimating the survival function of life annuity sellers ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Fonction%20de%20survie/estimation_fonction_survie.R)) and maximum likelihood ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Vraissemblance/Vraissemblance.ipynb))  as part of a first-year internship at CREST (python and R)
 - Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf)
 - Working on a [package](https://github.com/AugustinCablant/Projet_python_2A) that finds the optimal routes for electric cars in France 
-
+- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I work with ENSAE and INRIA on [Optimal Transport](https://github.com/AugustinCablant/Stat-App).
 
 ## I’m currently learning : 
 - python
@@ -68,9 +67,11 @@
 - A challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
 - A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
 - Python project during my first semester about [electric cars](https://github.com/AugustinCablant/PyCar) called PyCar.
+- Estimating the survival function of life annuity sellers ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Fonction%20de%20survie/estimation_fonction_survie.R)) and maximum likelihood ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Vraissemblance/Vraissemblance.ipynb))  as part of a first-year internship at CREST (python and R)
 
 ## ⚡ My future projects : 
-- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I will work with ENSAE and INRIA on Optimal Transport.
+- QRT 2024 challenge
+- HI Paris hackathon 
 
 
 
