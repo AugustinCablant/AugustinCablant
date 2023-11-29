@@ -17,7 +17,7 @@
   Master student at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. 
   <br>
   <br>
-  I am strongly interested in statistics, Machine Learning, Mathematics and Data Science. I plan to continue my studies and then my          professional career in these fields.
+  I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
   <br>
   <br>
   
