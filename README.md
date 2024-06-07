@@ -20,6 +20,9 @@
   I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
   <br>
   <br>
+I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
+  <br>
+  <br>
   
 </div>
 
