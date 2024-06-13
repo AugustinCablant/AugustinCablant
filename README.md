@@ -14,7 +14,7 @@
 <div>
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
   
-  Master student at Ensae Paris (National School of Statistics and Economic Administration) in statistics and machine learning. 
+  I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI. 
   <br>
   <br>
   I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
@@ -63,18 +63,22 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 - STATA
 - C++
 
-## Projects
-- A project about Bubbles crashes and intermittency in agent based market models [Have a look](https://github.com/AugustinCablant/Bubbles-crashes-and-intermittency)
-- Optimising a delivery network in France [Have a look](https://github.com/AugustinCablant/Optimisation-d-un-r-seau-de-livraison)
-- Understanding the nuts and bolts of [statistics, probability](https://github.com/AugustinCablant/Statistics-and-Probability) and [Monte Carlo Methods](https://github.com/AugustinCablant/Monte-Carlo-methods)
-- A challenge data organized by ENS and QRT [Have a look](https://challengedata.ens.fr/participants/challenges/97/)
-- A challenge data organized by ENS and CFM [Have a look](https://challengedata.ens.fr/participants/challenges/84/)
-- Python project during my first semester about [electric cars](https://github.com/AugustinCablant/PyCar) called PyCar.
-- Estimating the survival function of life annuity sellers ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Fonction%20de%20survie/estimation_fonction_survie.R)) and maximum likelihood ([just here](https://github.com/AugustinCablant/Estimation-non-param-trique-et-mod-les-de-survie/blob/main/Vraissemblance/Vraissemblance.ipynb))  as part of a first-year internship at CREST (python and R)
+### School projects ⚡
 
-## ⚡ My future projects : 
-- QRT 2024 challenge
-- HI Paris hackathon 
+| Projects | Links |
+|---|---|
+|  |  |
+| **_MVA Projects_** |  |
+| Incoming | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![PDF](https://img.shields.io/badge/📄_PDF-blue)]() [![Slides](https://img.shields.io/badge/📄_Slides-red)]()  |
+|  |  |
+| **_ENSAE Projects_** |  |
+| Optimization of a delivery network | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Optimisation-d-un-r-seau-de-livraison/blob/main/Optimisation_reseau.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Optimisation-d-un-r-seau-de-livraison/blob/main/Rapport_projet_de_programmation.pdf)  |
+| Bubbles and Crashes | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Bubbles-crashes-and-intermittency/blob/main/Bubbles_and_crashes.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Bubbles-crashes-and-intermittency/blob/main/Bubbles__crashes_and_intermittency_in_agent_based_market_models%20(1).pdf) |
+| PyCar | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/PyCar)  |
+| Monte Carlo |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/notebook.ipynb) [![![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/paper.pdf) |
+| Time Series |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Time-Series/blob/main/acablant_gglorieux.R) [![![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Time-Series/blob/main/TS.pdf) |
+
+
 
 
 
