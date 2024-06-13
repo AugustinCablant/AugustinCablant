@@ -57,12 +57,6 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 - Working on a [package](https://github.com/AugustinCablant/Projet_python_2A) that finds the optimal routes for electric cars in France 
 - Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I work with ENSAE and INRIA on [Optimal Transport](https://github.com/AugustinCablant/Stat-App).
 
-## I’m currently learning : 
-- python
-- R
-- STATA
-- C++
-
 ### School projects ⚡
 
 | Projects | Links |
@@ -78,7 +72,47 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 | Monte Carlo |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/notebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/paper.pdf) |
 | Time Series |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Time-Series/blob/main/acablant_gglorieux.R) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Time-Series/blob/main/TS.pdf) |
 
+## Education
 
+### MVA
+
+MVA (which stands for Mathématique - Vision - Apprentissage) is the best French Reserch Master 2 for Data Science and Statistic Modelisation. 
+
+The course I followed are :
+
+* [Deep Learning](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
+* [Convex Optimization and Applications in Machine Learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
+* [Bayesian Machine Learning](https://www.master-mva.com/cours/bayesian-machine-learning/) (R. BARDENET, J. ARBEL)
+* [ Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (E. DUPOUX, B. SAGOT)
+* [Computational Optimal Transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE) 
+* [Kernel Methods for Machine Learning](https://www.master-mva.com/cours/kernel-methods-for-machine-learning/) (J. MAIRAL, M. ARBEL)
+* [Computational statistics](https://www.ensae.fr/courses/719)
+
+
+### ENSAE
+
+ENSAE is a school specialized in Statistics, Data Science, Economy and Finance. 
+I specialized in Data Science, choosing the [Data Science, Statistics and Learning track](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning). 
+
+Some of the courses I validated are :
+ __First and Second Years :__
+ 
+* [Measure and Probability Theory](https://www.ensae.fr/courses/2701) (V.E. BRUNEL)
+* [Advanced Statistics](https://www.ensae.fr/courses/1015-statistique-2) (M. LERALSE)
+* [Stochastic Processes](https://www.ensae.fr/courses/4432-introduction-aux-processus) (N. CHOPIN)
+* [Simulation and Monte Carlo Methods](https://www.ensae.fr/courses/328) (N. CHOPIN)
+* [Linear Time Series](https://www.ensae.fr/courses/6106)
+* [Econometry](https://www.ensae.fr/courses/6104)
+* [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
+ 
+ __Third Year :__
+ 
+* [Advanced Machine Learning](https://www.ensae.fr/courses/381) (V. PERCHET)
+* [Bayesian Statistics](https://www.ensae.fr/courses/164) (A. SIMONI)
+* [Hidden Markov models and Sequential Monte-Carlo Methods](https://www.ensae.fr/courses/424) (N. CHOPIN)
+* [Machine Learning for Natural Language Processing](https://www.ensae.fr/courses/4237) (P. COLOMBO)
+* [Bootstrap and Resampling Methods](https://www.ensae.fr/courses/177) (E. LAPENTA)
+* [Optimal Transport](https://www.ensae.fr/courses/3449) (M. CUTTURI)
 
 
 
