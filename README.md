@@ -13,8 +13,10 @@
 ## Some words about me
 <div>
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
+<!--
+  [MVA - ENS Saclay](https://www.master-mva.com/)>
   
-  I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI. 
+  I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and , one of the best French Engineering Grande Ecole in Data Science and AI. 
   <br>
   <br>
   I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
@@ -62,7 +64,7 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 | Projects | Links |
 |---|---|
 |  |  |
-| **_MVA Projects_** |  |
+| **School Projects_** |  |
 | Incoming | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![PDF](https://img.shields.io/badge/📄_PDF-blue)]() [![Slides](https://img.shields.io/badge/📄_Slides-red)]()  |
 |  |  |
 | **_ENSAE Projects_** |  |
@@ -74,6 +76,7 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 
 ## Education
 
+<!--
 ### MVA
 
 MVA (which stands for Mathématique - Vision - Apprentissage) is the best French Reserch Master 2 for Data Science and Statistic Modelisation. 
@@ -86,7 +89,7 @@ The course I followed are :
 * [ Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (E. DUPOUX, B. SAGOT)
 * [Computational Optimal Transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE) 
 * [Kernel Methods for Machine Learning](https://www.master-mva.com/cours/kernel-methods-for-machine-learning/) (J. MAIRAL, M. ARBEL)
-* [Computational statistics](https://www.ensae.fr/courses/719)
+* [Computational statistics](https://www.ensae.fr/courses/719) !>
 
 
 ### ENSAE
@@ -104,7 +107,8 @@ Some of the courses I validated are :
 * [Linear Time Series](https://www.ensae.fr/courses/6106)
 * [Econometry](https://www.ensae.fr/courses/6104)
 * [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
- 
+
+ <!--
  __Third Year :__
  
 * [Advanced Machine Learning](https://www.ensae.fr/courses/381) (V. PERCHET)
