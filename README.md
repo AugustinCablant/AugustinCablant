@@ -81,14 +81,8 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 Part III (One-year master's -level taught course in mathematics offered at the Faculty of Mathematics, University of Cambridge). It is regarded as one of the most difficult and intensive mathematics courses in the world. 
 
 The course I followed are :
-<!
-* [Deep Learning](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
-* [Convex Optimization and Applications in Machine Learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
-* [Bayesian Machine Learning](https://www.master-mva.com/cours/bayesian-machine-learning/) (R. BARDENET, J. ARBEL)
-* [ Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (E. DUPOUX, B. SAGOT)
-* [Computational Optimal Transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE) 
-* [Kernel Methods for Machine Learning](https://www.master-mva.com/cours/kernel-methods-for-machine-learning/) (J. MAIRAL, M. ARBEL)
-* [Computational statistics](https://www.ensae.fr/courses/719) !>
+
+* [My Essay](link) (Professors)
 
 
 ### ENSAE
