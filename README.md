@@ -8,6 +8,9 @@
   <a href="augustin.cablantca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
+  <a href="https://www.strava.com/athletes/127811782">
+    <img src="https://i1.wp.com/mybikeway.it/wp-content/uploads/2019/01/strava-logo-png-4.png?fit=1202%2C1200&ssl=1" alt="gmail Badge"/>
+  </a>
 </div>
 
 ## 👋 Some words about me
