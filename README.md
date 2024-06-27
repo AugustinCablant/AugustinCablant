@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
   <a href="https://www.strava.com/athletes/127811782">
-    <img src="https://th.bing.com/th/id/OIP.kW0srysTmwqkgqVwP-XA_AHaFj?rs=1&pid=ImgDetMain" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
 
