@@ -13,10 +13,9 @@
 ## Some words about me
 <div>
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
-<!--
-  [MVA - ENS Saclay](https://www.master-mva.com/)>
+    <img align="right" src="https://logodownload.org/wp-content/uploads/2021/04/university-of-cambridge-logo-0.png" alt="Cambridge" width="200">
   
-  I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and , one of the best French Engineering Grande Ecole in Data Science and AI. 
+  I'm Augustin Cablant, a Master's student at [Part III - University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/part-iii-guide-courses) & [ENSAE IP Paris](https://www.ensae.fr/en), two reputed institutions.
   <br>
   <br>
   I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
@@ -25,7 +24,7 @@
 I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
   <br>
   <br>
-  
+⚡ Fun fact: I run more than I drive!
 </div>
 
 
@@ -64,7 +63,7 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 | Projects | Links |
 |---|---|
 |  |  |
-| **School Projects_** |  |
+| **University of Cambridge projects** |  |
 | Incoming | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![PDF](https://img.shields.io/badge/📄_PDF-blue)]() [![Slides](https://img.shields.io/badge/📄_Slides-red)]()  |
 |  |  |
 | **_ENSAE Projects_** |  |
@@ -76,10 +75,10 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 
 ## Education
 
-<!--
-### MVA
 
-MVA (which stands for Mathématique - Vision - Apprentissage) is the best French Reserch Master 2 for Data Science and Statistic Modelisation. 
+### University of Cambridge
+
+Part III (One-year master's -level taught course in mathematics offered at the Faculty of Mathematics, University of Cambridge). It is regarded as one of the most difficult and intensive mathematics courses in the world. 
 
 The course I followed are :
 
@@ -107,16 +106,6 @@ Some of the courses I validated are :
 * [Linear Time Series](https://www.ensae.fr/courses/6106)
 * [Econometry](https://www.ensae.fr/courses/6104)
 * [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
-
- <!--
- __Third Year :__
- 
-* [Advanced Machine Learning](https://www.ensae.fr/courses/381) (V. PERCHET)
-* [Bayesian Statistics](https://www.ensae.fr/courses/164) (A. SIMONI)
-* [Hidden Markov models and Sequential Monte-Carlo Methods](https://www.ensae.fr/courses/424) (N. CHOPIN)
-* [Machine Learning for Natural Language Processing](https://www.ensae.fr/courses/4237) (P. COLOMBO)
-* [Bootstrap and Resampling Methods](https://www.ensae.fr/courses/177) (E. LAPENTA)
-* [Optimal Transport](https://www.ensae.fr/courses/3449) (M. CUTTURI)
 
 
 
