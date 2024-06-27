@@ -15,13 +15,13 @@
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
     <img align="right" src="https://logodownload.org/wp-content/uploads/2021/04/university-of-cambridge-logo-0.png" alt="Cambridge" width="200">
   
-  I'm Augustin Cablant, a Master's student at [Part III - University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/part-iii-guide-courses) & [ENSAE IP Paris](https://www.ensae.fr/en), two reputed institutions.
+ 👋 I'm Augustin Cablant, a Master's student at [Part III - University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/part-iii-guide-courses) & [ENSAE IP Paris](https://www.ensae.fr/en), two reputed institutions.
   <br>
   <br>
-  I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
+📏 I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
   <br>
   <br>
-I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
+💻 I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
   <br>
   <br>
 ⚡ Fun fact: I run more than I drive!
@@ -38,7 +38,7 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
   alt="Augustin's github stats"/>
 </picture>
 
-## Skills 
+## 📝 Skills 
 <div id="badges">
   <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
@@ -53,12 +53,12 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
     </a>
 </div>
 
-## I’m currently working on : 
+## 🔎 I’m currently working on : 
 - Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf)
 - Working on a [package](https://github.com/AugustinCablant/Projet_python_2A) that finds the optimal routes for electric cars in France 
 - Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I work with ENSAE and INRIA on [Optimal Transport](https://github.com/AugustinCablant/Stat-App).
 
-### School projects ⚡
+### 📚 School projects 
 
 | Projects | Links |
 |---|---|
@@ -73,7 +73,7 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 | Monte Carlo |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/notebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/paper.pdf) |
 | Time Series |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Time-Series/blob/main/acablant_gglorieux.R) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Time-Series/blob/main/TS.pdf) |
 
-## Education
+## 🎓 Education
 
 
 ### University of Cambridge
