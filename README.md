@@ -1,6 +1,6 @@
 # Welcome to my Github profile ! 
 
-## Contacts: 
+## ☎️ Contacts: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/augustin-cablant-70362518b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,18 +10,18 @@
   </a>
 </div>
 
-## Some words about me
+## 👋 Some words about me
 <div>
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
     <img align="right" src="https://logodownload.org/wp-content/uploads/2021/04/university-of-cambridge-logo-0.png" alt="Cambridge" width="200">
   
- 👋 I'm Augustin Cablant, a Master's student at [Part III - University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/part-iii-guide-courses) & [ENSAE IP Paris](https://www.ensae.fr/en), two reputed institutions.
+ I'm Augustin Cablant, a Master's student at [Part III - University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/part-iii-guide-courses) & [ENSAE IP Paris](https://www.ensae.fr/en), two reputed institutions.
   <br>
   <br>
-📏 I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
+I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
   <br>
   <br>
-💻 I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
+I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
   <br>
   <br>
 ⚡ Fun fact: I run more than I drive!
