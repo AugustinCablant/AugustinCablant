@@ -16,7 +16,7 @@
 ## 👋 Some words about me
 <div>
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
-    <img align="right" src="https://logodownload.org/wp-content/uploads/2021/04/university-of-cambridge-logo-0.png" alt="Cambridge" width="200">
+    <img align="right" src="https://centreborelli.ens-paris-saclay.fr/sites/centre_borelli/files/styles/img__320x240__crop_main/public/media/images/logo_mva_935x701.jpg?itok=RJOngZkC" alt="MVA" width="200">
   
  I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI.
 
