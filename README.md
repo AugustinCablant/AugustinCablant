@@ -18,16 +18,17 @@
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
     <img align="right" src="https://logodownload.org/wp-content/uploads/2021/04/university-of-cambridge-logo-0.png" alt="Cambridge" width="200">
   
- I'm Augustin Cablant, a Master's student at [Part III - University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/part-iii-guide-courses) & [ENSAE IP Paris](https://www.ensae.fr/en), two reputed institutions.
+ I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI.
+
   <br>
   <br>
-I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my          professional career in these fields.
+I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my professional career in these fields.
   <br>
   <br>
 I am currently interning at EDF Lab, where I am involved in predicting consumption based on demographic data.
   <br>
   <br>
-⚡ Fun fact: I run more than I drive!
+⚡ Fun fact: I run a lot ! I mean, a lot !!!
 </div>
 
 
@@ -57,16 +58,14 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 </div>
 
 ## 🔎 I’m currently working on : 
-- Improving my skills in Machine Learning (scikit learn, PyTorch, Tensor Flow ...) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf)
-- Working on a [package](https://github.com/AugustinCablant/Projet_python_2A) that finds the optimal routes for electric cars in France 
-- Statapp during the year (Statapp is an applied statistics project organised at ENSAE. This project takes place during the second year of ENSAE). I work with ENSAE and INRIA on [Optimal Transport](https://github.com/AugustinCablant/Stat-App).
+- Improving my skills in Deep Learning (PyTorch, Tensor Flow) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf) and coding (LeetCode).
 
 ### 📚 School projects 
 
 | Projects | Links |
 |---|---|
 |  |  |
-| **University of Cambridge projects** |  |
+| **_MVA Projects_** |  |
 | Incoming | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![PDF](https://img.shields.io/badge/📄_PDF-blue)]() [![Slides](https://img.shields.io/badge/📄_Slides-red)]()  |
 |  |  |
 | **_ENSAE Projects_** |  |
@@ -77,16 +76,27 @@ I am currently interning at EDF Lab, where I am involved in predicting consumpti
 | Monte Carlo |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/notebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/paper.pdf) |
 | Time Series |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Time-Series/blob/main/acablant_gglorieux.R) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Time-Series/blob/main/TS.pdf) |
 
+## Publications
+Incoming ... 
+
 ## 🎓 Education
 
 
-### University of Cambridge
+### MVA
 
-Part III (One-year master's -level taught course in mathematics offered at the Faculty of Mathematics, University of Cambridge). It is regarded as one of the most difficult and intensive mathematics courses in the world. 
+MVA (which stands for Mathématique - Vision - Apprentissage) is the best French Reserch Master 2 for Data Science and Statistic Modelisation. 
 
 The course I followed are :
 
-* [My Essay](link) (Professors)
+* [Fundamentals of Reproducible Research and Free Software](https://www.master-mva.com/cours/fondamentaux-de-la-recherche-reproductible-et-du-logiciel-libre-fundamentals-of-reproducible-research-and-free-software/) (M. COLOM BARCO)
+* [Deep Learning](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
+* [Convex Optimization and Applications in Machine Learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
+* [Bayesian Machine Learning](https://www.master-mva.com/cours/bayesian-machine-learning/) (R. BARDENET, J. ARBEL)
+* [ Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (E. DUPOUX, B. SAGOT)
+* [Modèles Génératifs pour l’Image](https://www.master-mva.com/cours/modeles-generatifs-pour-l-image/) (B. GALERNE, V. DE BORTOLI)
+* [Audio Signal Processing – Time-frequency Analysis](https://www.master-mva.com/cours/audio-signal-processing-time-frequency-analysis/) (E. BACRY)
+* [Computational Optimal Transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE) 
+* [Kernel Methods for Machine Learning](https://www.master-mva.com/cours/kernel-methods-for-machine-learning/) (J. MAIRAL, M. ARBEL)
 
 
 ### ENSAE
@@ -95,6 +105,20 @@ ENSAE is a school specialized in Statistics, Data Science, Economy and Finance.
 I specialized in Data Science, choosing the [Data Science, Statistics and Learning track](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning). 
 
 Some of the courses I validated are :
+
+ __Third Year :__
+ 
+* [Advanced Machine Learning](https://www.ensae.fr/courses/381) (V. PERCHET)
+* [Bayesian Statistics](https://www.ensae.fr/courses/164) (A. SIMONI)
+* [Ethics and responsibility in data science](https://www.ensae.fr/courses/6122) (P. TUBARO)
+* [Computational statistics](https://www.ensae.fr/courses/719) (C. ROBERT)
+* [Hidden Markov models and Sequential Monte-Carlo Methods](https://www.ensae.fr/courses/424) (N. CHOPIN)
+* [Machine Learning for Natural Language Processing](https://www.ensae.fr/courses/4237) (P. COLOMBO)
+* [Online learning and aggregation](https://www.ensae.fr/courses/2598) (A. TSYBAKOV)
+* [Bootstrap and Resampling Methods](https://www.ensae.fr/courses/177) (E. LAPENTA)
+* [Optimal Transport](https://www.ensae.fr/courses/3449) (M. CUTTURI)
+
+  
  __First and Second Years :__
  
 * [Measure and Probability Theory](https://www.ensae.fr/courses/2701) (V.E. BRUNEL)
