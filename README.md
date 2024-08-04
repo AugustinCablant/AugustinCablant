@@ -90,7 +90,12 @@ The course I followed are :
 
 * [Fundamentals of Reproducible Research and Free Software](https://www.master-mva.com/cours/fondamentaux-de-la-recherche-reproductible-et-du-logiciel-libre-fundamentals-of-reproducible-research-and-free-software/) (M. COLOM BARCO)
 * [Deep Learning](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
+* [Fondements Théoriques du deep learning](https://www.master-mva.com/cours/fondements-theoriques-du-deep-learning/)  (S. GERCHINOVITZ, F. MALGOUYRES, E. PAUWELS, N. THOME)
 * [Convex Optimization and Applications in Machine Learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
+* [Introduction to statistical learning](https://www.master-mva.com/cours/introduction-to-statistical-learning/) (N. VAYATIS)
+* [Introduction to Probabilistic Graphical Models and Deep Generative Models](https://www.master-mva.com/cours/probabilistic-graphical-models/) (P. LATOUCHE, P.A. MATTEI)
+* [Computational Statistics](https://www.master-mva.com/cours/computational-statistics/) (S.ALLASSONNIERE)
+* [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
 * [Bayesian Machine Learning](https://www.master-mva.com/cours/bayesian-machine-learning/) (R. BARDENET, J. ARBEL)
 * [ Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (E. DUPOUX, B. SAGOT)
 * [Modèles Génératifs pour l’Image](https://www.master-mva.com/cours/modeles-generatifs-pour-l-image/) (B. GALERNE, V. DE BORTOLI)
