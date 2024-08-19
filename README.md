@@ -27,6 +27,7 @@ I am strongly interested in statistics, Machine Learning, Mathematics, Data Scie
   <br>
 ⚡ Fun fact: I run a lot ! I mean, a lot !!! 
 
+<!--
 A few words about my running (optional and non-academic):
 
 <img align="right" src="https://github.com/AugustinCablant/coach/blob/main/training_volume.png" alt="Volume" width="500">
@@ -47,7 +48,7 @@ A few words about my running (optional and non-academic):
 - **Piste acte I**: Début de la saison de piste (que je n'ai pas envie de faire). J'essaye de me motiver car on me dit que ça va me faire progresser sur la route.<br> J'execute donc. Premier tour des interclubs, pop corn total sur 3000m avec un 8:39. Beaucoup de déception ...<br> Je commence à avoir du mal à m'entraîner, je perds la motivation. Fin du mois, 5000m de St Maur que je remporte en 14:40. Je suis toujours frustré.
 - **Piste acte II**: Je m'entraîne tant bien que mal, je passe quelques séances.<br> Mais je sens que je commence à être fatigué. Je vise 14:10 sur 5000m et je pense que j'en ai les capacités.<br> Malheureusement, je ne parviens pas à efffectuer ce chrono et réalise deux fois 14:30 (Cergy puis FAST5000).
 - **Bilan de ma première saison**: Je décide de faire une coupure sur une partie de juillet et août afin de me régénérer.<br> J'ai beaucoup d'objectifs en tête mais si je retiens une chose de ma saison d'athlé, c'est que j'ai aussi besoin des études pour être stimulé.<br> J'ai très hâte de débuter mon master 2 au MVA à la rentrée de septembre et souhaite concilier mon cursus académique avec mes aventures sportives.
-   
+ !-->
   
 </div>
 
