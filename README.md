@@ -52,17 +52,6 @@ A few words about my running (optional and non-academic):
   
 </div>
 
-
-## :chart_with_upwards_trend: GitHub Stats 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&include_all_commits=true" 
-  alt="Augustin's github stats"/>
-</picture>
-
 ## 📝 Skills 
 <div id="badges">
   <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -155,7 +144,15 @@ Some of the courses I validated are :
 * [Econometry](https://www.ensae.fr/courses/6104)
 * [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
 
-
+## :chart_with_upwards_trend: GitHub Stats 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&include_all_commits=true" 
+  alt="Augustin's github stats"/>
+</picture>
 
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
