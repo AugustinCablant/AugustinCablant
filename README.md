@@ -98,11 +98,10 @@ MVA (which stands for Mathématique - Vision - Apprentissage) is the best French
 
 The course I followed are :
 
-* [Fundamentals of Reproducible Research and Free Software](https://www.master-mva.com/cours/fondamentaux-de-la-recherche-reproductible-et-du-logiciel-libre-fundamentals-of-reproducible-research-and-free-software/) (M. COLOM BARCO)
-* [Deep Learning](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
-* [Fondements Théoriques du deep learning](https://www.master-mva.com/cours/fondements-theoriques-du-deep-learning/)  (S. GERCHINOVITZ, F. MALGOUYRES, E. PAUWELS, N. THOME)
+* [Apprentissage pour les séries temporelles](https://www.master-mva.com/cours/apprentissage-pour-les-series-temporelles/) (L. OUDRE)
+* [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
+* [Stopping times and online algorithms](https://www.master-mva.com/cours/stopping-times-and-online-algorithms/) (V.PERCHET)
 * [Convex Optimization and Applications in Machine Learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
-* [Introduction to statistical learning](https://www.master-mva.com/cours/introduction-to-statistical-learning/) (N. VAYATIS)
 * [Introduction to Probabilistic Graphical Models and Deep Generative Models](https://www.master-mva.com/cours/probabilistic-graphical-models/) (P. LATOUCHE, P.A. MATTEI)
 * [Computational Statistics](https://www.master-mva.com/cours/computational-statistics/) (S.ALLASSONNIERE)
 * [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
@@ -126,10 +125,9 @@ Some of the courses I validated are :
 * [Advanced Machine Learning](https://www.ensae.fr/courses/381) (V. PERCHET)
 * [Bayesian Statistics](https://www.ensae.fr/courses/164) (A. SIMONI)
 * [Ethics and responsibility in data science](https://www.ensae.fr/courses/6122) (P. TUBARO)
-* [Computational statistics](https://www.ensae.fr/courses/719) (C. ROBERT)
+* [High Dimensional Statistics](https://www.ensae.fr/courses/2598) (A. TSYBAKOV)
 * [Hidden Markov models and Sequential Monte-Carlo Methods](https://www.ensae.fr/courses/424) (N. CHOPIN)
 * [Machine Learning for Natural Language Processing](https://www.ensae.fr/courses/4237) (P. COLOMBO)
-* [Online learning and aggregation](https://www.ensae.fr/courses/2598) (A. TSYBAKOV)
 * [Bootstrap and Resampling Methods](https://www.ensae.fr/courses/177) (E. LAPENTA)
 * [Optimal Transport](https://www.ensae.fr/courses/3449) (M. CUTTURI)
 
