@@ -98,19 +98,15 @@ MVA (which stands for Mathématique - Vision - Apprentissage) is the best French
 
 The course I followed are :
 
+**FIRST SEMESTER**
 * [Apprentissage pour les séries temporelles](https://www.master-mva.com/cours/apprentissage-pour-les-series-temporelles/) (L. OUDRE)
 * [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
 * [Stopping times and online algorithms](https://www.master-mva.com/cours/stopping-times-and-online-algorithms/) (V.PERCHET)
-* [Convex Optimization and Applications in Machine Learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
-* [Introduction to Probabilistic Graphical Models and Deep Generative Models](https://www.master-mva.com/cours/probabilistic-graphical-models/) (P. LATOUCHE, P.A. MATTEI)
-* [Computational Statistics](https://www.master-mva.com/cours/computational-statistics/) (S.ALLASSONNIERE)
 * [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
-* [Bayesian Machine Learning](https://www.master-mva.com/cours/bayesian-machine-learning/) (R. BARDENET, J. ARBEL)
-* [ Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (E. DUPOUX, B. SAGOT)
-* [Modèles Génératifs pour l’Image](https://www.master-mva.com/cours/modeles-generatifs-pour-l-image/) (B. GALERNE, V. DE BORTOLI)
-* [Audio Signal Processing – Time-frequency Analysis](https://www.master-mva.com/cours/audio-signal-processing-time-frequency-analysis/) (E. BACRY)
-* [Computational Optimal Transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE) 
-* [Kernel Methods for Machine Learning](https://www.master-mva.com/cours/kernel-methods-for-machine-learning/) (J. MAIRAL, M. ARBEL)
+* [Advanced learning for text and graph data ALTEGRAD](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) (M. VAZIRGIANNIS)
+
+**SECOND SEMESTER**
+* []() ()
 
 
 ### ENSAE
