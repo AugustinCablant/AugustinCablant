@@ -122,7 +122,6 @@ Some of the courses I validated are :
 * [Bayesian Statistics](https://www.ensae.fr/courses/164) (A. SIMONI)
 * [Ethics and responsibility in data science](https://www.ensae.fr/courses/6122) (P. TUBARO)
 * [High Dimensional Statistics](https://www.ensae.fr/courses/2598) (A. TSYBAKOV)
-* [Hidden Markov models and Sequential Monte-Carlo Methods](https://www.ensae.fr/courses/424) (N. CHOPIN)
 * [Machine Learning for Natural Language Processing](https://www.ensae.fr/courses/4237) (P. COLOMBO)
 * [Bootstrap and Resampling Methods](https://www.ensae.fr/courses/177) (E. LAPENTA)
 * [Optimal Transport](https://www.ensae.fr/courses/3449) (M. CUTTURI)
