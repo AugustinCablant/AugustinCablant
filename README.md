@@ -101,9 +101,8 @@ The course I followed are :
 **FIRST SEMESTER**
 * [Apprentissage pour les séries temporelles](https://www.master-mva.com/cours/apprentissage-pour-les-series-temporelles/) (L. OUDRE)
 * [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
-* [Stopping times and online algorithms](https://www.master-mva.com/cours/stopping-times-and-online-algorithms/) (V.PERCHET)
 * [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
-* [Advanced learning for text and graph data ALTEGRAD](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) (M. VAZIRGIANNIS)
+* [DEEP LEARNING](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
 
 **SECOND SEMESTER**
 * []() ()
