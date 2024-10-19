@@ -101,7 +101,7 @@ The course I followed are :
 **FIRST SEMESTER**
 * [DEEP LEARNING](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
 * [Advanced learning for text and graph data ALTEGRAD](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) (M. VAZIRGIANNIS)
-* [Apprentissage pour les séries temporelles](https://www.master-mva.com/cours/apprentissage-pour-les-series-temporelles/) (L. OUDRE)
+* [Fondements Théoriques du deep learning](https://www.master-mva.com/cours/fondements-theoriques-du-deep-learning/) (S. GERCHINOVITZ, F. MALGOUYRES, E. PAUWELS, N. THOME)
 * [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
 * [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
 
