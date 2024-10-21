@@ -100,6 +100,7 @@ The course I followed are :
 
 **FIRST SEMESTER**
 * [DEEP LEARNING](https://www.master-mva.com/cours/cat-deep-learning/) (V.LEPETIT, M. VAKALOPOULOU)
+* [Computational optimal transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE)
 * [Advanced learning for text and graph data ALTEGRAD](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) (M. VAZIRGIANNIS)
 * [Foundations of Distributed and Large Scale Computing Optimization](https://www.master-mva.com/cours/foundations-of-distributed-and-large-scale-computing-optimization/) (E. CHOUZENOUX)
 * [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
