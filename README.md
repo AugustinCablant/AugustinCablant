@@ -101,7 +101,7 @@ The course I followed are :
 
 **FIRST SEMESTER**
 * [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
-* * [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
+* [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
 * [Computational Statistics](https://www.master-mva.com/cours/computational-statistics/) (S.ALLASSONNIERE)
 * [Computational optimal transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE)
 * [Advanced learning for text and graph data ALTEGRAD](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) (M. VAZIRGIANNIS)
