@@ -111,11 +111,7 @@ The course I followed are :
 
 
 **SECOND SEMESTER**
-* [Large Language Models](https://www.master-mva.com/cours/large-language-models-introduction-and-applications-for-code/) (N. FIJALKOW, M. LELARGE)
-* [Deep Learning in Practice](https://www.master-mva.com/cours/deep-learning-in-practice/) (G. CHARPIAT)
-* [Bayesian machine learning](https://www.master-mva.com/cours/bayesian-machine-learning/) (R. BARDENET & J. ARBEL)
-* [Algorithms for speech and natural language processing](https://www.master-mva.com/cours/algorithms-for-speech-and-natural-language-processing/) (C. CLAVEL, D. SEDDAH, R. BAWDEN, G. WISNIEWSKI, B. SAGOT)
-* [Modèles génératifs pour l’image](https://www.master-mva.com/cours/modeles-generatifs-pour-l-image/) (B. GALERNE, A. LECLAIRE)
+
 
 
 ### ENSAE
