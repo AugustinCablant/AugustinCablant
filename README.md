@@ -22,7 +22,8 @@
 
   <br>
   <br>
-I am strongly interested in statistics, Machine Learning, Mathematics, Data Science and sport science. I plan to continue my studies and then my professional career in these fields.
+I am deeply passionate about statistics, Machine Learning, optimization, and, particularly, Reinforcement Learning. I aim to further my studies and pursue a Ph.D. in these fields to explore and contribute to advancements in these areas. I am keen to develop new solutions through mathematical modeling, data science techniques, and innovative algorithms, ultimately integrating them into practical applications.
+
   <br>
   <br>
 ⚡ Fun fact: I run a lot ! I mean, a lot !!! 
