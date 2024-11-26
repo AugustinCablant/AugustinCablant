@@ -22,7 +22,7 @@
 
   <br>
   <br>
-I am deeply passionate about statistics, Machine Learning, optimization, and, particularly, Reinforcement Learning. I aim to further my studies and pursue a Ph.D. in these fields to explore and contribute to advancements in these areas. I am keen to develop new solutions through mathematical modeling, data science techniques, and innovative algorithms, ultimately integrating them into practical applications.
+I am deeply passionate about statistics, Machine Learning, optimization, and, particularly, Reinforcement Learning. I aim to further my studies and pursue a Ph.D. in these fields to explore and contribute to advancements in these areas. 
 
   <br>
   <br>
