@@ -159,7 +159,7 @@ Here are some highlights from my athletic journey:
 
 ![7 @Boulogne HM](https://github.com/AugustinCablant/AugustinCablant/blob/main/Boulbi.jpg)
 
-![Flying @cross](https://github.com/AugustinCablant/AugustinCablant/blob/main/Mureaux.jpg)
+![Flying @cross](https://github.com/AugustinCablant/AugustinCablant/blob/main/Mureaux2.jpg)
 
 
 ## :chart_with_upwards_trend: GitHub Stats 
