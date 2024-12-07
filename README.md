@@ -142,6 +142,26 @@ Some of the courses I validated are :
 * [Econometry](https://www.ensae.fr/courses/6104)
 * [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
 
+
+## 🏃‍♂️ My Athletic Achievements
+
+I am passionate about athletics, particularly long-distance running, cross-country and trails. Below are my personal records (PRs):
+
+| Event              | Distance | Personal Record (PR) | Notes                     |
+|--------------------|----------|-----------------------|---------------------------|
+| **10K Road**       | 10 km    | **<30:00**           | Achieved in [Houilles / 2024]   |
+| **Half Marathon**  | 21.1 km  | **1:05:06**          | Achieved in [Boulogne/ 2024]   |
+| **Track 5000m**    | 5 km     | **14:30:00**         | Achieved in [Cergy / 2024] |
+| **Marathon**       | 42.1905km| **Incoming**         | Achieved in ? / 2025    |
+
+### 📸 Athletic Moments
+Here are some highlights from my athletic journey:
+
+![7 @Boulogne HM](https://github.com/AugustinCablant/AugustinCablant/blob/main/Boulbi.jpg)
+
+![Flying @cross](https://github.com/AugustinCablant/AugustinCablant/blob/main/Mureaux.jpg)
+
+
 ## :chart_with_upwards_trend: GitHub Stats 
 <picture>
   <source
