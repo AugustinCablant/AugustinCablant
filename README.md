@@ -77,7 +77,7 @@ A few words about my running (optional and non-academic):
 |---|---|
 |  |  |
 | **_MVA Projects_** |  |
-| Incoming | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![PDF](https://img.shields.io/badge/📄_PDF-blue)]() [![Slides](https://img.shields.io/badge/📄_Slides-red)]()  |
+| Computational Statistics | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Computational-Statistics-Project/blob/main/notebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://arxiv.org/pdf/1506.04091) |
 |  |  |
 | **_ENSAE Projects_** |  |
 | ElectricCar | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/ElectricCar)   |
