@@ -149,7 +149,7 @@ I am passionate about athletics, particularly long-distance running, cross-count
 
 | Event              | Distance | Personal Record (PR) | Notes                     |
 |--------------------|----------|-----------------------|---------------------------|
-| **10K Road**       | 10 km    | **<30:00**           | Achieved in [Houilles / 2024]   |
+| **10K Road**       | 10 km    | **29:26**           | Achieved in [Nice / 2025]   |
 | **Half Marathon**  | 21.1 km  | **1:05:06**          | Achieved in [Boulogne/ 2024]   |
 | **Track 5000m**    | 5 km     | **14:30:00**         | Achieved in [Cergy / 2024] |
 | **Marathon**       | 42.1905km| **Incoming**         | Achieved in ? / 2025    |
