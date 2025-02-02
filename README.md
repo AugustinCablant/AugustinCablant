@@ -83,8 +83,6 @@ A few words about my running (optional and non-academic):
 | Convex Optimization | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/blob/main/Optimization/HW3.ipynb) |
 | ALTEGRAD | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/ALTEGRAD) |
 
-
-|  |  |
 | **_ENSAE Projects_** |  |
 | Advanced Machine Learning | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Advanced-ML/blob/main/src/ExploratoryNotebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Advanced-ML/blob/main/AML_Project.pdf) |
 | ElectricCar | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/ElectricCar)   |
@@ -104,50 +102,10 @@ Incoming ...
 
 MVA (which stands for Mathématique - Vision - Apprentissage) is the best French Reserch Master 2 for Data Science and Statistic Modelisation. 
 
-The course I followed are :
-
-**FIRST SEMESTER**
-* [Reinforcement Learning](https://www.master-mva.com/cours/reinforcement-learning-2/) (M. RACHELSON Emmanuel)
-* [Convex optimization and applications in machine learning](https://www.master-mva.com/cours/convex-optimization-and-applications-in-machine-learning/) (A. D'ASPREMONT)
-* [Computational Statistics](https://www.master-mva.com/cours/computational-statistics/) (S.ALLASSONNIERE)
-* [Computational optimal transport](https://www.master-mva.com/cours/computational-optimal-transport/) (G. PEYRE)
-* [Advanced learning for text and graph data ALTEGRAD](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) (M. VAZIRGIANNIS)
-* [Foundations of Distributed and Large Scale Computing Optimization](https://www.master-mva.com/cours/foundations-of-distributed-and-large-scale-computing-optimization/) (E. CHOUZENOUX)
-
-
-
-
-**SECOND SEMESTER**
-
-
-
 ### ENSAE
 
 ENSAE is a school specialized in Statistics, Data Science, Economy and Finance. 
 I specialized in Data Science, choosing the [Data Science, Statistics and Learning track](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning). 
-
-Some of the courses I validated are :
-
- __Third Year :__
- 
-* [Advanced Machine Learning](https://www.ensae.fr/courses/381) (V. PERCHET)
-* [Bayesian Statistics](https://www.ensae.fr/courses/164) (A. SIMONI)
-* [Ethics and responsibility in data science](https://www.ensae.fr/courses/6122) (P. TUBARO)
-* [High Dimensional Statistics](https://www.ensae.fr/courses/2598) (A. TSYBAKOV)
-* [Machine Learning for Natural Language Processing](https://www.ensae.fr/courses/4237) (P. COLOMBO)
-* [Bootstrap and Resampling Methods](https://www.ensae.fr/courses/177) (E. LAPENTA)
-* [Optimal Transport](https://www.ensae.fr/courses/3449) (M. CUTTURI)
-
-  
- __First and Second Years :__
- 
-* [Measure and Probability Theory](https://www.ensae.fr/courses/2701) (V.E. BRUNEL)
-* [Advanced Statistics](https://www.ensae.fr/courses/1015-statistique-2) (M. LERALSE)
-* [Stochastic Processes](https://www.ensae.fr/courses/4432-introduction-aux-processus) (N. CHOPIN)
-* [Simulation and Monte Carlo Methods](https://www.ensae.fr/courses/328) (N. CHOPIN)
-* [Linear Time Series](https://www.ensae.fr/courses/6106)
-* [Econometry](https://www.ensae.fr/courses/6104)
-* [Introduction to Game Theory](https://www.ensae.fr/courses/1005-theorie-des-jeux)
 
 
 ## 🏃‍♂️ My Athletic Achievements
