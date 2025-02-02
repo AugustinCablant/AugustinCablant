@@ -81,7 +81,7 @@ A few words about my running (optional and non-academic):
 | Foundations of distributed and large scale optimization | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/Foundations%20of%20Distributed%20and%20Large%20Scale%20optimization) |
 | Reinforcement Learning | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/REINFORCEMENT_LEARNING) |
 | Convex Optimization | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/blob/main/Optimization/HW3.ipynb) |
-| ALTEGRAD | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/ALTEGRAD) |
+| ALTEGRAD | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/ALTEGRAD) | |
 
 | **_ENSAE Projects_** |  |
 | Advanced Machine Learning | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Advanced-ML/blob/main/src/ExploratoryNotebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Advanced-ML/blob/main/AML_Project.pdf) |
