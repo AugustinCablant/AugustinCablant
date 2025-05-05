@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="augustin.cablantca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.strava.com/athletes/127811782">
-    STRAVA
+    <img src="https://img.shields.io/badge/-Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava Badge"/>
   </a>
 </div>
 
@@ -113,12 +113,12 @@ I specialized in Data Science, choosing the [Data Science, Statistics and Learni
 
 I am passionate about athletics, particularly long-distance running, cross-country and trails. Below are my personal records (PRs):
 
-| Event              | Distance | Personal Record (PR) | Notes                     |
-|--------------------|----------|-----------------------|---------------------------|
-| **10K Road**       | 10 km    | **29:26**           | Achieved in [Nice / 2025]   |
-| **Half Marathon**  | 21.1 km  | **1:05:06**          | Achieved in [Boulogne/ 2024]   |
-| **Track 5000m**    | 5 km     | **14:30:00**         | Achieved in [Cergy / 2024] |
-| **Marathon**       | 42.1905km| **Incoming**         | Achieved in ? / 2025    |
+| Event              | Distance | Personal Record (PR) | Notes                       |
+|--------------------|----------|----------------------|-----------------------------|
+| **Track 5000m**    | 5 km     | **14:30:00**         | Achieved in [Cergy / 2024]  |
+| **10K Road**       | 10 km    | **29:26**            | Achieved in [Nice / 2025]   |
+| **Half Marathon**  | 21.1 km  | **1:04:48**          | Achieved in [Paris/ 2025]   |
+| **Marathon**       | 42.195km | **2:33:52**          | Achieved in [Rennes / 2023] |
 
 ### 📸 Athletic Moments
 Here are some highlights from my athletic journey:
