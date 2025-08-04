@@ -91,16 +91,9 @@ Here are some highlights from my athletic journey:
 <img src="https://github.com/AugustinCablant/AugustinCablant/blob/main/Mureaux2.jpg" alt="Flying @cross" width="400"/>
 
 
-
-## :chart_with_upwards_trend: GitHub Stats 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustinCablant&show_icons=true&include_all_commits=true" 
-  alt="Augustin's github stats"/>
-</picture>
+<br>
+<br>
+Fun fact (bis): So far, I’ve broken more running records than research records — but I’m working hard to change that! 🏃‍♂️📚
 
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
