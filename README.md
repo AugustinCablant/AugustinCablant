@@ -53,47 +53,9 @@ A few words about my running (optional and non-academic):
   
 </div>
 
-## 📝 Skills 
-<div id="badges">
-  <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="R">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
-    </a>
-  <a href="Microsoft office">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft office Badge"/>
-  </a>
-  <a href="C++">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-    </a>
-</div>
+- 🔭 I’m currently working on a research project on nested bandit algorithms with entropy-based regularization. The goal is to develop and analyze learning algorithms that leverage the hierarchical structure of action spaces, with a particular focus on Tsallis entropy regularization for improved exploration–exploitation trade-offs. This work is being conducted as part of my final-year internship at Criteo, where I am collaborating with the research team to explore scalable solutions in the context of structured online decision-making.
 
-## 🔎 I’m currently working on : 
-- Improving my skills in Deep Learning (PyTorch, Tensor Flow) [My notes](https://github.com/AugustinCablant/Learning-ML/blob/main/MACHINE_LEARNING.pdf) and coding (LeetCode).
-
-### 📚 School projects 
-
-| MVA Projects | Links |
-|---|---|
-|  |  |
-| Computational Statistics | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Computational-Statistics-Project/blob/main/notebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://arxiv.org/pdf/1506.04091) |
-| Foundations of distributed and large scale optimization | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/Foundations%20of%20Distributed%20and%20Large%20Scale%20optimization) |
-| Reinforcement Learning | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/REINFORCEMENT_LEARNING) |
-| Convex Optimization | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/blob/main/Optimization/HW3.ipynb) |
-| ALTEGRAD | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/3A-class/tree/main/ALTEGRAD) | |
-
-| ENSAE Projects | Links |
-|---|---|
-|  |  |
-| Advanced Machine Learning | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Advanced-ML/blob/main/src/ExploratoryNotebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Advanced-ML/blob/main/AML_Project.pdf) |
-| ElectricCar | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/ElectricCar)   |
-| Stat-App | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/yassprogramme/Stat-App/tree/main/codes) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/yassprogramme/Stat-App/tree/main/PDF)  |
-| Optimization of a delivery network | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Optimisation-d-un-r-seau-de-livraison/blob/main/Optimisation_reseau.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Optimisation-d-un-r-seau-de-livraison/blob/main/Rapport_projet_de_programmation.pdf)  |
-| Bubbles and Crashes | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Bubbles-crashes-and-intermittency/blob/main/Bubbles_and_crashes.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Bubbles-crashes-and-intermittency/blob/main/Bubbles__crashes_and_intermittency_in_agent_based_market_models%20(1).pdf) |
-| Monte Carlo |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/notebook.ipynb) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Monte-Carlo-project/blob/main/paper.pdf) |
-| Time Series |  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AugustinCablant/Time-Series/blob/main/acablant_gglorieux.R) [![PDF](https://img.shields.io/badge/📄_PDF-blue)](https://github.com/AugustinCablant/Time-Series/blob/main/TS.pdf) |
-
-## Publications
+## 📚 Publications 🔎
 Incoming ... 
 
 ## 🎓 Education
@@ -116,9 +78,10 @@ I am passionate about athletics, particularly long-distance running, cross-count
 | Event              | Distance | Personal Record (PR) | Notes                     |
 |--------------------|----------|-----------------------|---------------------------|
 | **10K Road**       | 10 km    | **29:26**           | Achieved in [Nice / 2025]   |
-| **Half Marathon**  | 21.1 km  | **1:05:06**          | Achieved in [Boulogne/ 2024]   |
-| **Track 5000m**    | 5 km     | **14:30:00**         | Achieved in [Cergy / 2024] |
-| **Marathon**       | 42.1905km| **Incoming**         | Achieved in ? / 2025    |
+| **Half Marathon**  | 21.1 km  | **1:04:46**          | Achieved in [Paris/ 2025]   |
+| **5K Road**        | 5 km     | **14:24:00**         | Achieved in [Paris / 2025] |
+| **Track 5000m**    | 5 km     | **14:28:00**         | Achieved in [Lyon / 2025] |
+| **Marathon**       | 42.1905km| **Incoming**         | Achieved in [Valencia / 2025]    |
 
 ### 📸 Athletic Moments
 Here are some highlights from my athletic journey:
