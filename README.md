@@ -8,7 +8,7 @@
   <a href="augustin.cablantca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
-  <a href="https://www.strava.com/athletes/127811782">
+  <a href="https://www.strava.com/athletes/173749736">
     STRAVA
   </a>
 </div>
