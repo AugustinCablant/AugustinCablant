@@ -89,9 +89,10 @@ I am passionate about athletics, particularly long-distance running, cross-count
 ### 📸 Athletic Moments
 Here are some highlights from my athletic journey:
 
-![7 @Boulogne HM](https://github.com/AugustinCablant/AugustinCablant/blob/main/Boulbi.jpg)
+<img src="https://github.com/AugustinCablant/AugustinCablant/blob/main/Boulbi.jpg" alt="7 @Boulogne HM" width="400"/>
 
-![Flying @cross](https://github.com/AugustinCablant/AugustinCablant/blob/main/Mureaux2.jpg)
+<img src="https://github.com/AugustinCablant/AugustinCablant/blob/main/Mureaux2.jpg" alt="Flying @cross" width="400"/>
+
 
 
 ## :chart_with_upwards_trend: GitHub Stats 
