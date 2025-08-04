@@ -18,14 +18,11 @@
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
     <img align="right" src="https://centreborelli.ens-paris-saclay.fr/sites/centre_borelli/files/styles/img__320x240__crop_main/public/media/images/logo_mva_935x701.jpg?itok=RJOngZkC" alt="MVA" width="200">
   
- I'm Augustin Cablant, a Master's student at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI.
+I'm Augustin Cablant. I recently completed my Master's degree at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI. I am deeply passionate about statistics, Machine Learning, optimization, and, Reinforcement Learning. I am now eager to pursue a PhD to deepen my research in these fields.
 
   <br>
   <br>
-I am deeply passionate about statistics, Machine Learning, optimization, and, particularly, Reinforcement Learning. I aim to further my studies and pursue a Ph.D. in these fields to explore and contribute to advancements in these areas. 
-
-  <br>
-  <br>
+  
 ⚡ Fun fact: I run a lot ! I mean, a lot !!! 
 
 <!--
