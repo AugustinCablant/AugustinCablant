@@ -53,7 +53,10 @@ A few words about my running (optional and non-academic):
   
 </div>
 
-- 🔭 I’m currently working on a research project on nested bandit algorithms with entropy-based regularization. The goal is to develop and analyze learning algorithms that leverage the hierarchical structure of action spaces, with a particular focus on Tsallis entropy regularization for improved exploration–exploitation trade-offs. This work is being conducted as part of my final-year internship at Criteo, where I am collaborating with the research team to explore scalable solutions in the context of structured online decision-making.
+  <br>
+  <br>
+  
+🔭 I’m currently working on a research project on nested bandit algorithms with entropy-based regularization. The goal is to develop and analyze learning algorithms that leverage the hierarchical structure of action spaces, with a particular focus on Tsallis entropy regularization for improved exploration–exploitation trade-offs. This work is being conducted as part of my final-year internship at Criteo, where I am collaborating with the research team to explore scalable solutions in the context of structured online decision-making.
 
 ## 📚 Publications 🔎
 Incoming ... 
