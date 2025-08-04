@@ -93,7 +93,7 @@ Here are some highlights from my athletic journey:
 
 <br>
 <br>
-Fun fact (bis): So far, I’ve broken more running records than research records — but I’m working hard to change that! 🏃‍♂️📚
+⚡ Fun fact (bis): So far, I’ve broken more running records than research records — but I’m working hard to change that! 🏃‍♂️📚
 
 <!--
 **AugustinCablant/AugustinCablant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
