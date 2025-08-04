@@ -80,11 +80,11 @@ I am passionate about athletics, particularly long-distance running, cross-count
 
 | Event              | Distance | Personal Record (PR) | Notes                     |
 |--------------------|----------|-----------------------|---------------------------|
-| **10K Road**       | 10 km    | **29:26**           | Achieved in [Nice / 2025]   |
-| **Half Marathon**  | 21.1 km  | **1:04:46**          | Achieved in [Paris/ 2025]   |
-| **5K Road**        | 5 km     | **14:24:00**         | Achieved in [Paris / 2025] |
-| **Track 5000m**    | 5 km     | **14:28:00**         | Achieved in [Lyon / 2025] |
-| **Marathon**       | 42.1905km| **Incoming**         | Achieved in [Valencia / 2025]    |
+| **10K Road**       | 10 km    | **29:26**             | Achieved in Nice (2025)   |
+| **Half Marathon**  | 21.1 km  | **1:04:46**           | Achieved in Paris (2025)  |
+| **5K Road**        | 5 km     | **14:24:00**          | Achieved in Paris (2025)  |
+| **Track 5000m**    | 5 km     | **14:28:00**          | Achieved in Lyon (2025)   |
+| **Marathon**       | 42.1905km| **Incoming**          | Achieved in Valencia(2025)|
 
 ### 📸 Athletic Moments
 Here are some highlights from my athletic journey:
