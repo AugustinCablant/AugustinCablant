@@ -18,7 +18,7 @@
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LOGO-ENSAE.png" alt="ENSAE" width="200">
     <img align="right" src="https://centreborelli.ens-paris-saclay.fr/sites/centre_borelli/files/styles/img__320x240__crop_main/public/media/images/logo_mva_935x701.jpg?itok=RJOngZkC" alt="MVA" width="200">
   
-I'm Augustin Cablant. I recently completed my Master's degree at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI. I am deeply passionate about statistics, Machine Learning, optimization, and, Reinforcement Learning. I am now eager to pursue a PhD to deepen my research in these fields.
+I'm Augustin Cablant. I recently completed my Master's degree at [ENSAE IP Paris](https://www.ensae.fr/en) and [MVA - ENS Saclay](https://www.master-mva.com/), two of the best French Engineering Grande Ecole in Data Science and AI. I am deeply passionate about statistics & Machine Learning. I am now eager to pursue a PhD to deepen my research in these fields.
 
   <br>
   <br>
@@ -77,11 +77,11 @@ I am passionate about athletics, particularly long-distance running, cross-count
 
 | Event              | Distance | Personal Record (PR) | Notes                     |
 |--------------------|----------|-----------------------|---------------------------|
-| **10K Road**       | 10 km    | **29:26**             | Achieved in Nice (2025)   |
-| **Half Marathon**  | 21.1 km  | **1:04:46**           | Achieved in Paris (2025)  |
-| **5K Road**        | 5 km     | **14:24:00**          | Achieved in Paris (2025)  |
+| **10K Road**       | 10 km    | **29:08**             | Achieved in Lille (2026)   |
+| **Half Marathon**  | 21.1 km  | **1:03:31**           | Achieved in Barcelona (2026)  |
+| **5K Road**        | 5 km     | **14:13:00**          | Achieved in Lille (2026)  |
 | **Track 5000m**    | 5 km     | **14:28:00**          | Achieved in Lyon (2025)   |
-| **Marathon**       | 42.1905km| **Incoming**          | Achieved in Valencia(2025)|
+| **Marathon**       | 42.1905km| **Incoming**          | Berlin in 2026|
 
 ### 📸 Athletic Moments
 Here are some highlights from my athletic journey:
